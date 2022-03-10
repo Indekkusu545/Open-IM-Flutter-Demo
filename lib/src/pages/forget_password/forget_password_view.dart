@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/widgets/touch_close_keyboard.dart';
+import 'package:open_im/src/widgets/touch_close_keyboard.dart';
 
 import '../../res/strings.dart';
 import '../../res/styles.dart';

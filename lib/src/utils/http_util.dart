@@ -1,8 +1,8 @@
 import 'package:dio/dio.dart';
-import 'package:openim_demo/src/common/config.dart';
-import 'package:openim_demo/src/models/api_resp.dart';
-import 'package:openim_demo/src/utils/data_persistence.dart';
-import 'package:openim_demo/src/widgets/im_widget.dart';
+import 'package:open_im/src/common/config.dart';
+import 'package:open_im/src/models/api_resp.dart';
+import 'package:open_im/src/utils/data_persistence.dart';
+import 'package:open_im/src/widgets/im_widget.dart';
 import 'package:pretty_dio_logger/pretty_dio_logger.dart';
 import 'package:tencent_cos/tencent_cos.dart';
 

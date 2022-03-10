@@ -2,8 +2,8 @@ import 'dart:async';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:openim_demo/src/app.dart';
-import 'package:openim_demo/src/common/config.dart';
+import 'package:open_im/src/app.dart';
+import 'package:open_im/src/common/config.dart';
 
 Future<Null> main() async {
   WidgetsFlutterBinding.ensureInitialized();

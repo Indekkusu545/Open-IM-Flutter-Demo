@@ -1,6 +1,6 @@
 import 'package:flutter_openim_sdk/flutter_openim_sdk.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/utils/im_util.dart';
+import 'package:open_im/src/utils/im_util.dart';
 
 class FriendIdCodeLogic extends GetxController {
   late UserInfo info;

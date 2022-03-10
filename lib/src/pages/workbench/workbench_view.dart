@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/res/strings.dart';
-import 'package:openim_demo/src/res/styles.dart';
-import 'package:openim_demo/src/widgets/titlebar.dart';
+import 'package:open_im/src/res/strings.dart';
+import 'package:open_im/src/res/styles.dart';
+import 'package:open_im/src/widgets/titlebar.dart';
 
 import 'workbench_logic.dart';
 

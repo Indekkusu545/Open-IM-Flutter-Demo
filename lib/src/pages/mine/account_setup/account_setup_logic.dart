@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
-import 'package:openim_demo/src/res/strings.dart';
-import 'package:openim_demo/src/routes/app_navigator.dart';
-import 'package:openim_demo/src/utils/data_persistence.dart';
+import 'package:open_im/src/res/strings.dart';
+import 'package:open_im/src/routes/app_navigator.dart';
+import 'package:open_im/src/utils/data_persistence.dart';
 
 class AccountSetupLogic extends GetxController {
   var notDisturbModel = false.obs;

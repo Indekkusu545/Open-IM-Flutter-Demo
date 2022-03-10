@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_openim_widget/flutter_openim_widget.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/utils/im_util.dart';
+import 'package:open_im/src/utils/im_util.dart';
 import 'package:uuid/uuid.dart';
 
 class AvatarView extends StatelessWidget {

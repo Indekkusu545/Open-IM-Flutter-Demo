@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_openim_sdk/flutter_openim_sdk.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/res/strings.dart';
-import 'package:openim_demo/src/widgets/im_widget.dart';
-import 'package:openim_demo/src/widgets/loading_view.dart';
+import 'package:open_im/src/res/strings.dart';
+import 'package:open_im/src/widgets/im_widget.dart';
+import 'package:open_im/src/widgets/loading_view.dart';
 
 class ApplyEnterGroupLogic extends GetxController {
   late GroupInfo info;

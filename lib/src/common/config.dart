@@ -3,8 +3,8 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bugly/flutter_bugly.dart';
-import 'package:openim_demo/src/utils/data_persistence.dart';
-import 'package:openim_demo/src/utils/http_util.dart';
+import 'package:open_im/src/utils/data_persistence.dart';
+import 'package:open_im/src/utils/http_util.dart';
 import 'package:sp_util/sp_util.dart';
 
 class Config {

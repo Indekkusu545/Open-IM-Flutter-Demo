@@ -1,8 +1,8 @@
 import 'dart:convert';
 
 import 'package:get/get.dart';
-import 'package:openim_demo/src/models/call_records.dart';
-import 'package:openim_demo/src/utils/data_persistence.dart';
+import 'package:open_im/src/models/call_records.dart';
+import 'package:open_im/src/utils/data_persistence.dart';
 
 class CallRecordsLogic extends GetxController {
   var index = 0.obs;

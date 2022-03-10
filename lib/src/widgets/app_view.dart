@@ -3,8 +3,8 @@ import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:focus_detector/focus_detector.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/common/config.dart';
-import 'package:openim_demo/src/core/controller/app_controller.dart';
+import 'package:open_im/src/common/config.dart';
+import 'package:open_im/src/core/controller/app_controller.dart';
 
 class AppView extends StatelessWidget {
   const AppView({Key? key, required this.builder}) : super(key: key);

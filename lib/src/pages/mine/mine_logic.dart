@@ -1,13 +1,13 @@
 import 'package:get/get.dart';
-import 'package:openim_demo/src/core/controller/im_controller.dart';
-import 'package:openim_demo/src/core/controller/jpush_controller.dart';
-import 'package:openim_demo/src/res/strings.dart';
-import 'package:openim_demo/src/routes/app_navigator.dart';
-import 'package:openim_demo/src/utils/data_persistence.dart';
-import 'package:openim_demo/src/utils/im_util.dart';
-import 'package:openim_demo/src/widgets/custom_dialog.dart';
-import 'package:openim_demo/src/widgets/im_widget.dart';
-import 'package:openim_demo/src/widgets/loading_view.dart';
+import 'package:open_im/src/core/controller/im_controller.dart';
+import 'package:open_im/src/core/controller/jpush_controller.dart';
+import 'package:open_im/src/res/strings.dart';
+import 'package:open_im/src/routes/app_navigator.dart';
+import 'package:open_im/src/utils/data_persistence.dart';
+import 'package:open_im/src/utils/im_util.dart';
+import 'package:open_im/src/widgets/custom_dialog.dart';
+import 'package:open_im/src/widgets/im_widget.dart';
+import 'package:open_im/src/widgets/loading_view.dart';
 
 class MineLogic extends GetxController {
   final imLogic = Get.find<IMController>();

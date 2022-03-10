@@ -17,11 +17,11 @@ import 'package:image_gallery_saver/image_gallery_saver.dart';
 import 'package:lpinyin/lpinyin.dart';
 import 'package:mime_type/mime_type.dart';
 import 'package:open_file/open_file.dart';
-import 'package:openim_demo/src/models/contacts_info.dart';
-import 'package:openim_demo/src/models/group_member_info.dart' as en;
-import 'package:openim_demo/src/pages/chat/chat_logic.dart';
-import 'package:openim_demo/src/res/strings.dart';
-import 'package:openim_demo/src/widgets/im_widget.dart';
+import 'package:open_im/src/models/contacts_info.dart';
+import 'package:open_im/src/models/group_member_info.dart' as en;
+import 'package:open_im/src/pages/chat/chat_logic.dart';
+import 'package:open_im/src/res/strings.dart';
+import 'package:open_im/src/widgets/im_widget.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:sprintf/sprintf.dart';
 

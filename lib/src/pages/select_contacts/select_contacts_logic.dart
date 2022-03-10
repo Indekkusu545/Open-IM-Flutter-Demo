@@ -1,10 +1,10 @@
 import 'package:flutter_openim_sdk/flutter_openim_sdk.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/models/contacts_info.dart';
-import 'package:openim_demo/src/res/strings.dart';
-import 'package:openim_demo/src/routes/app_navigator.dart';
-import 'package:openim_demo/src/utils/im_util.dart';
-import 'package:openim_demo/src/widgets/custom_dialog.dart';
+import 'package:open_im/src/models/contacts_info.dart';
+import 'package:open_im/src/res/strings.dart';
+import 'package:open_im/src/routes/app_navigator.dart';
+import 'package:open_im/src/utils/im_util.dart';
+import 'package:open_im/src/widgets/custom_dialog.dart';
 
 enum SelAction {
   FORWARD,

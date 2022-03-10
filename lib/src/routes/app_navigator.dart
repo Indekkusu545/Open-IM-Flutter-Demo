@@ -1,10 +1,10 @@
 import 'package:flutter_openim_sdk/flutter_openim_sdk.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/models/contacts_info.dart';
-import 'package:openim_demo/src/pages/add_friend/search/search_logic.dart';
-import 'package:openim_demo/src/pages/chat/group_setup/group_member_manager/member_list/member_list_logic.dart';
-import 'package:openim_demo/src/pages/select_contacts/select_contacts_logic.dart';
-import 'package:openim_demo/src/widgets/qr_view.dart';
+import 'package:open_im/src/models/contacts_info.dart';
+import 'package:open_im/src/pages/add_friend/search/search_logic.dart';
+import 'package:open_im/src/pages/chat/group_setup/group_member_manager/member_list/member_list_logic.dart';
+import 'package:open_im/src/pages/select_contacts/select_contacts_logic.dart';
+import 'package:open_im/src/widgets/qr_view.dart';
 
 import 'app_pages.dart';
 

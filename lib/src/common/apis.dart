@@ -2,14 +2,14 @@ import 'dart:io';
 
 import 'package:dio/dio.dart';
 import 'package:flutter_openim_sdk/flutter_openim_sdk.dart';
-import 'package:openim_demo/src/common/urls.dart';
-import 'package:openim_demo/src/models/login_certificate.dart';
-import 'package:openim_demo/src/models/online_status.dart';
-import 'package:openim_demo/src/models/upgrade_info.dart';
-import 'package:openim_demo/src/res/strings.dart';
-import 'package:openim_demo/src/utils/http_util.dart';
-import 'package:openim_demo/src/utils/im_util.dart';
-import 'package:openim_demo/src/widgets/im_widget.dart';
+import 'package:open_im/src/common/urls.dart';
+import 'package:open_im/src/models/login_certificate.dart';
+import 'package:open_im/src/models/online_status.dart';
+import 'package:open_im/src/models/upgrade_info.dart';
+import 'package:open_im/src/res/strings.dart';
+import 'package:open_im/src/utils/http_util.dart';
+import 'package:open_im/src/utils/im_util.dart';
+import 'package:open_im/src/widgets/im_widget.dart';
 
 import 'config.dart';
 

@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/models/contacts_info.dart';
-import 'package:openim_demo/src/res/images.dart';
-import 'package:openim_demo/src/res/strings.dart';
-import 'package:openim_demo/src/res/styles.dart';
-import 'package:openim_demo/src/widgets/debounce_button.dart';
-import 'package:openim_demo/src/widgets/avatar_view.dart';
-import 'package:openim_demo/src/widgets/image_button.dart';
-import 'package:openim_demo/src/widgets/titlebar.dart';
-import 'package:openim_demo/src/widgets/touch_close_keyboard.dart';
+import 'package:open_im/src/models/contacts_info.dart';
+import 'package:open_im/src/res/images.dart';
+import 'package:open_im/src/res/strings.dart';
+import 'package:open_im/src/res/styles.dart';
+import 'package:open_im/src/widgets/debounce_button.dart';
+import 'package:open_im/src/widgets/avatar_view.dart';
+import 'package:open_im/src/widgets/image_button.dart';
+import 'package:open_im/src/widgets/titlebar.dart';
+import 'package:open_im/src/widgets/touch_close_keyboard.dart';
 import 'package:sprintf/sprintf.dart';
 
 import 'create_group_logic.dart';

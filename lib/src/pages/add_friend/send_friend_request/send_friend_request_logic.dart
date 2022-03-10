@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_openim_sdk/flutter_openim_sdk.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/res/strings.dart';
-import 'package:openim_demo/src/widgets/im_widget.dart';
+import 'package:open_im/src/res/strings.dart';
+import 'package:open_im/src/widgets/im_widget.dart';
 
 class SendFriendRequestLogic extends GetxController {
   UserInfo? _userInfo;

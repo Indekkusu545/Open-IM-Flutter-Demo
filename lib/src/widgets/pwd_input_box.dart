@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:openim_demo/src/res/images.dart';
-import 'package:openim_demo/src/res/strings.dart';
+import 'package:open_im/src/res/images.dart';
+import 'package:open_im/src/res/strings.dart';
 
 class PwdInputBox extends StatelessWidget {
   const PwdInputBox({

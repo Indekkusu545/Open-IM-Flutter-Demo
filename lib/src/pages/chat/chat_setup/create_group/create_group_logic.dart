@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_openim_sdk/flutter_openim_sdk.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/models/contacts_info.dart';
-import 'package:openim_demo/src/pages/conversation/conversation_logic.dart';
-import 'package:openim_demo/src/res/strings.dart';
-import 'package:openim_demo/src/widgets/im_widget.dart';
+import 'package:open_im/src/models/contacts_info.dart';
+import 'package:open_im/src/pages/conversation/conversation_logic.dart';
+import 'package:open_im/src/res/strings.dart';
+import 'package:open_im/src/widgets/im_widget.dart';
 
 class CreateGroupInChatSetupLogic extends GetxController {
   var nameCtrl = TextEditingController();

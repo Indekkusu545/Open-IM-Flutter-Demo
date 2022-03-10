@@ -1,9 +1,9 @@
 import 'package:azlistview/azlistview.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:openim_demo/src/res/images.dart';
-import 'package:openim_demo/src/res/styles.dart';
-import 'package:openim_demo/src/widgets/radio_button.dart';
+import 'package:open_im/src/res/images.dart';
+import 'package:open_im/src/res/styles.dart';
+import 'package:open_im/src/widgets/radio_button.dart';
 
 import 'avatar_view.dart';
 

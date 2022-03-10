@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/models/group_member_info.dart';
+import 'package:open_im/src/models/group_member_info.dart';
 
 class SearchMemberLogic extends GetxController {
   var focusNode = FocusNode();

@@ -2,13 +2,13 @@ import 'dart:convert';
 
 import 'package:flutter_openim_widget/flutter_openim_widget.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/core/controller/app_controller.dart';
-import 'package:openim_demo/src/core/controller/im_controller.dart';
-import 'package:openim_demo/src/pages/home/home_logic.dart';
-import 'package:openim_demo/src/res/strings.dart';
-import 'package:openim_demo/src/routes/app_navigator.dart';
-import 'package:openim_demo/src/utils/data_persistence.dart';
-import 'package:openim_demo/src/utils/im_util.dart';
+import 'package:open_im/src/core/controller/app_controller.dart';
+import 'package:open_im/src/core/controller/im_controller.dart';
+import 'package:open_im/src/pages/home/home_logic.dart';
+import 'package:open_im/src/res/strings.dart';
+import 'package:open_im/src/routes/app_navigator.dart';
+import 'package:open_im/src/utils/data_persistence.dart';
+import 'package:open_im/src/utils/im_util.dart';
 import 'package:pull_to_refresh/pull_to_refresh.dart';
 
 class ConversationLogic extends GetxController {

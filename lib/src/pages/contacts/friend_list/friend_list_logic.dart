@@ -4,11 +4,11 @@ import 'package:azlistview/azlistview.dart';
 import 'package:flutter_openim_sdk/flutter_openim_sdk.dart';
 import 'package:flutter_openim_widget/flutter_openim_widget.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/common/apis.dart';
-import 'package:openim_demo/src/core/controller/im_controller.dart';
-import 'package:openim_demo/src/models/contacts_info.dart';
-import 'package:openim_demo/src/routes/app_navigator.dart';
-import 'package:openim_demo/src/utils/im_util.dart';
+import 'package:open_im/src/common/apis.dart';
+import 'package:open_im/src/core/controller/im_controller.dart';
+import 'package:open_im/src/models/contacts_info.dart';
+import 'package:open_im/src/routes/app_navigator.dart';
+import 'package:open_im/src/utils/im_util.dart';
 
 class MyFriendListLogic extends GetxController {
   var friendList = <ContactsInfo>[].obs;

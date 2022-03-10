@@ -4,7 +4,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_openim_widget/flutter_openim_widget.dart';
 import 'package:get/get.dart';
 import 'package:jpush_flutter/jpush_flutter.dart';
-import 'package:openim_demo/src/utils/data_persistence.dart';
+import 'package:open_im/src/utils/data_persistence.dart';
 
 class JPushController extends GetxController {
   final JPush jPush = JPush();

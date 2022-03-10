@@ -2,14 +2,14 @@ import 'dart:convert';
 
 import 'package:flutter_openim_sdk/flutter_openim_sdk.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/core/controller/im_controller.dart';
-import 'package:openim_demo/src/pages/contacts/friend_info/personal_info/personal_info.dart';
-import 'package:openim_demo/src/pages/conversation/conversation_logic.dart';
-import 'package:openim_demo/src/pages/select_contacts/select_contacts_logic.dart';
-import 'package:openim_demo/src/res/strings.dart';
-import 'package:openim_demo/src/routes/app_navigator.dart';
-import 'package:openim_demo/src/widgets/custom_dialog.dart';
-import 'package:openim_demo/src/widgets/im_widget.dart';
+import 'package:open_im/src/core/controller/im_controller.dart';
+import 'package:open_im/src/pages/contacts/friend_info/personal_info/personal_info.dart';
+import 'package:open_im/src/pages/conversation/conversation_logic.dart';
+import 'package:open_im/src/pages/select_contacts/select_contacts_logic.dart';
+import 'package:open_im/src/res/strings.dart';
+import 'package:open_im/src/routes/app_navigator.dart';
+import 'package:open_im/src/widgets/custom_dialog.dart';
+import 'package:open_im/src/widgets/im_widget.dart';
 
 class FriendInfoLogic extends GetxController {
   late Rx<UserInfo> info;

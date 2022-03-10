@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/models/group_member_info.dart';
-import 'package:openim_demo/src/res/images.dart';
-import 'package:openim_demo/src/res/strings.dart';
-import 'package:openim_demo/src/res/styles.dart';
-import 'package:openim_demo/src/widgets/avatar_view.dart';
-import 'package:openim_demo/src/widgets/search_box.dart';
-import 'package:openim_demo/src/widgets/titlebar.dart';
+import 'package:open_im/src/models/group_member_info.dart';
+import 'package:open_im/src/res/images.dart';
+import 'package:open_im/src/res/strings.dart';
+import 'package:open_im/src/res/styles.dart';
+import 'package:open_im/src/widgets/avatar_view.dart';
+import 'package:open_im/src/widgets/search_box.dart';
+import 'package:open_im/src/widgets/titlebar.dart';
 import 'package:search_keyword_text/search_keyword_text.dart';
 
 import 'search_member_logic.dart';

@@ -1,12 +1,12 @@
 import 'package:flutter_openim_sdk/flutter_openim_sdk.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/core/controller/app_controller.dart';
-import 'package:openim_demo/src/pages/chat/chat_logic.dart';
-import 'package:openim_demo/src/pages/select_contacts/select_contacts_logic.dart';
-import 'package:openim_demo/src/res/strings.dart';
-import 'package:openim_demo/src/routes/app_navigator.dart';
-import 'package:openim_demo/src/widgets/im_widget.dart';
-import 'package:openim_demo/src/widgets/loading_view.dart';
+import 'package:open_im/src/core/controller/app_controller.dart';
+import 'package:open_im/src/pages/chat/chat_logic.dart';
+import 'package:open_im/src/pages/select_contacts/select_contacts_logic.dart';
+import 'package:open_im/src/res/strings.dart';
+import 'package:open_im/src/routes/app_navigator.dart';
+import 'package:open_im/src/widgets/im_widget.dart';
+import 'package:open_im/src/widgets/loading_view.dart';
 
 class ChatSetupLogic extends GetxController {
   var topContacts = false.obs;

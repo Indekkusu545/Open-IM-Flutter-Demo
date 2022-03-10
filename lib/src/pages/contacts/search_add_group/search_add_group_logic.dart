@@ -1,8 +1,8 @@
 import 'package:flutter_openim_sdk/flutter_openim_sdk.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/core/controller/im_controller.dart';
-import 'package:openim_demo/src/pages/conversation/conversation_logic.dart';
-import 'package:openim_demo/src/routes/app_navigator.dart';
+import 'package:open_im/src/core/controller/im_controller.dart';
+import 'package:open_im/src/pages/conversation/conversation_logic.dart';
+import 'package:open_im/src/routes/app_navigator.dart';
 
 class SearchAddGroupLogic extends GetxController {
   late Rx<GroupInfo> info;

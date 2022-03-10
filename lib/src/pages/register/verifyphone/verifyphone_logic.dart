@@ -1,10 +1,10 @@
 import 'dart:async';
 
 import 'package:get/get.dart';
-import 'package:openim_demo/src/common/apis.dart';
-import 'package:openim_demo/src/res/strings.dart';
-import 'package:openim_demo/src/routes/app_navigator.dart';
-import 'package:openim_demo/src/widgets/im_widget.dart';
+import 'package:open_im/src/common/apis.dart';
+import 'package:open_im/src/res/strings.dart';
+import 'package:open_im/src/routes/app_navigator.dart';
+import 'package:open_im/src/widgets/im_widget.dart';
 import 'package:pin_code_fields/pin_code_fields.dart';
 
 class VerifyPhoneLogic extends GetxController {

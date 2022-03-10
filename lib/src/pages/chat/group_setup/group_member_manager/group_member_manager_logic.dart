@@ -1,14 +1,14 @@
 import 'package:flutter_openim_sdk/flutter_openim_sdk.dart';
 import 'package:flutter_openim_widget/flutter_openim_widget.dart';
 import 'package:get/get.dart';
-import 'package:openim_demo/src/common/apis.dart';
-import 'package:openim_demo/src/models/contacts_info.dart';
-import 'package:openim_demo/src/models/group_member_info.dart' as en;
-import 'package:openim_demo/src/pages/chat/group_setup/group_member_manager/member_list/member_list_logic.dart';
-import 'package:openim_demo/src/pages/select_contacts/select_contacts_logic.dart';
-import 'package:openim_demo/src/routes/app_navigator.dart';
-import 'package:openim_demo/src/utils/deep_copy.dart';
-import 'package:openim_demo/src/utils/im_util.dart';
+import 'package:open_im/src/common/apis.dart';
+import 'package:open_im/src/models/contacts_info.dart';
+import 'package:open_im/src/models/group_member_info.dart' as en;
+import 'package:open_im/src/pages/chat/group_setup/group_member_manager/member_list/member_list_logic.dart';
+import 'package:open_im/src/pages/select_contacts/select_contacts_logic.dart';
+import 'package:open_im/src/routes/app_navigator.dart';
+import 'package:open_im/src/utils/deep_copy.dart';
+import 'package:open_im/src/utils/im_util.dart';
 
 import '../group_setup_logic.dart';
 

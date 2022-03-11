@@ -47,6 +47,9 @@
 -keep public class * extends android.support.multidex.MultiDexApplication
 -keep public class * extends android.view.View
 -keep class android.support.** {*;}
+-keep class io.openim.**{*;}
+-keep class open_im_sdk.**{*;}
+-keep class open_im_sdk_callback.**{*;}
 
 #忽略警告
 -ignorewarnings

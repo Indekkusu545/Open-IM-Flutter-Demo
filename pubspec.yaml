@@ -59,7 +59,7 @@ dependencies:
   qr_code_scanner: ^0.7.0
   pretty_dio_logger: ^1.2.0-beta-1
   logger: ^1.1.0
-  jpush_flutter: ^2.2.2
+  jpush_flutter: ^2.2.3
   #  animate_do: ^2.0.0
   animated_text_kit: ^4.2.1
   focus_detector: ^2.0.1
@@ -91,6 +91,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: ^0.9.2
 
 #dependency_overrides:
 #  provider: ^6.0.1
@@ -136,3 +137,8 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
+flutter_icons:
+  android: false
+  ios: true
+  image_path: "assets/launcher_icon/icon.png"
